@@ -1,6 +1,9 @@
-# Soham Saoji
-<link href="/assets/css/style.css" rel="stylesheet"></link>
+---
+layout: markdown_layout
+title: Soham Saoji
+---
 
+# Soham Saoji
 
 Hello! I am Soham Saoji, am pursuing my B.Tech degree in Computer Science specialisation in AI/ML from Vellore Insititue of Technology (VIT), Bhopal.
 

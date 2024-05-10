@@ -1,5 +1,9 @@
+---
+layout: markdown_layout
+title: Exploring Web3
+---
+
 # Exploring Web3
-<link href="./assets/css/style.css" rel="stylesheet"></link>
 
 [Go Back](https://sohamsaoji.github.io/)
 

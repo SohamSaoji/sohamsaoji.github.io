@@ -1,5 +1,9 @@
+---
+layout: markdown_layout
+title: Hello World
+---
+
 # Hello World
-<link href="./assets/css/style.css" rel="stylesheet"></link>
 
 [Go Back](https://sohamsaoji.github.io/)
 
