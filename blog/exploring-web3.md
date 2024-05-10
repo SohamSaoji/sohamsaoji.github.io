@@ -3,6 +3,8 @@ layout: markdown_layout
 title: Exploring Web3
 ---
 
+[Go Back](https://sohamsaoji.github.io/)
+
 ### Metadata
 - **Author:** Soham Saoji
 - **Date:** Feb 01, 2022
