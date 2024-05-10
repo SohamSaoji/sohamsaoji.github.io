@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+    width: 50%;
+}
+
+a {
+    text-align: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
