@@ -1,10 +1,11 @@
 # Exploring Web3
+<link href="./assets/css/style.css" rel="stylesheet"></link>
 
 [Go Back](https://sohamsaoji.github.io/)
 
 ### Metadata
-**Author:** Soham Saoji
-**Date:** Feb 01, 2022
+- **Author:** Soham Saoji
+- **Date:** Feb 01, 2022
 
 Before we talk about Web3 let's see the previous versions of the web (Web1 & Web2 ) to understand it in a better way.
 
